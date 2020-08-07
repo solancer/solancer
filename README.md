@@ -5,4 +5,3 @@ I'm a software professional who is passionate about making open-source more acce
 
 ## Find me around the web 🌎:
 - Ranting about random stuff on <a href="https://twitter.com/linuxsavvy">Twitter</a>
-- Sharing updates on <a href="https://www.linkedin.com/in/solancer/">LinkedIn</a> 
